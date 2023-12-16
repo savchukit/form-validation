@@ -1,0 +1,24 @@
+.form-container {
+  width: 500px;
+  margin: 100px auto;
+}
+
+.form-group {
+  margin-bottom: 20px;
+}
+
+.btn-submit {
+  margin-top: 10px;
+}
+
+.error {
+  color: red;
+}
+
+.valid {
+  border: 2px solid green;
+}
+
+.invalid {
+  border: 2px solid red;
+}
